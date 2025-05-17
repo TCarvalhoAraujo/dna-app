@@ -54,3 +54,14 @@ Clone the repository and run the `app.py` file:
 git clone https://github.com/your-username/dna-pattern-matcher.git
 cd dna-pattern-matcher
 python app.py
+```
+
+## ✨ To-do (future improvements)
+
+- [ ] Export results to `.txt` file
+- [ ] Add support for FASTA or real DNA sequence files
+- [ ] Package the app as a standalone `.exe` for easy distribution
+
+## 📄 License
+
+This project is licensed under the [MIT License](LICENSE).
