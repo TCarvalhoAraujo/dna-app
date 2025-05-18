@@ -51,8 +51,8 @@ More than just a programming exercise, this app became a learning and visualizat
 Clone the repository and run the `app.py` file:
 
 ```bash
-git clone https://github.com/your-username/dna-pattern-matcher.git
-cd dna-pattern-matcher
+git clone https://github.com/TCarvalhoAraujo/dna-app.git
+cd dna-app
 python app.py
 ```
 
